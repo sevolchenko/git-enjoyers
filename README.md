@@ -1,3 +1,3 @@
-# git-enjoyers
+## git-enjoyers
 
 Проект для тестирования возможностей веток GitHub
